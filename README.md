@@ -14,6 +14,12 @@ Github: https://github.com/Chrisreboc/m2-abp-wallet-digital
 
 https://chrisreboc.github.io/m2-abp-wallet-digital/
 
+## Correo y contraseña default:
+
+Correo: admin@admin.cl
+
+contraseña: 12345
+
 ## Requerimientos:
 
 💡 Desafío: Crea una billetera digital básica que incluya las siguientes pantallas:
